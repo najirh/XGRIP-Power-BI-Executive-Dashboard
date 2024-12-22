@@ -86,8 +86,8 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 #### **Product Analysis Dashboard**  
 ![Product Analysis](insert-product-analysis-screenshot-here.png)  
 
-#### **Returns Insights Dashboard**  
-![Returns Insights](insert-returns-insights-screenshot-here.png)  
+#### **Map Chart Dashboard with tooltips**  
+![Map Chart ](insert-returns-insights-screenshot-here.png)  
 
 ---
 
