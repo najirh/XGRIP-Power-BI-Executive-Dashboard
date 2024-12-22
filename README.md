@@ -10,9 +10,6 @@
 ### **Product Analysis Dashboard**  
 ![Product Analysis](insert-product-analysis-screenshot-here.png)  
 
-### **Returns Insights Dashboard**  
-![Returns Insights](insert-returns-insights-screenshot-here.png)  
-
 ### **Light and Dark Mode Example**  
 ![Light and Dark Mode](insert-light-dark-mode-screenshot-here.png)  
 
