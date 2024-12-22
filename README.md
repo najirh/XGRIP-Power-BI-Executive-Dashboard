@@ -5,13 +5,16 @@
 ## **Dashboard Screenshots**  
 
 ### **Sales Overview Dashboard**  
-![Sales Overview](insert-sales-overview-screenshot-here.png)  
+![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
 
 ### **Product Analysis Dashboard**  
-![Product Analysis](insert-product-analysis-screenshot-here.png)  
+![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+
+### **Map Analysis Dashboard**  
+![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
 
 ### **Light and Dark Mode Example**  
-![Light and Dark Mode](insert-light-dark-mode-screenshot-here.png)  
+![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
 
 ---
 
@@ -79,15 +82,18 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 ## **Final Output**  
 
 ### **Screenshots**  
+### **Sales Overview Dashboard**  
+![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
 
-#### **Sales Overview Dashboard**  
-![Sales Overview](insert-sales-overview-screenshot-here.png)  
+### **Product Analysis Dashboard**  
+![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
 
-#### **Product Analysis Dashboard**  
-![Product Analysis](insert-product-analysis-screenshot-here.png)  
+### **Map Analysis Dashboard**  
+![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
 
-#### **Map Chart Dashboard with tooltips**  
-![Map Chart ](insert-returns-insights-screenshot-here.png)  
+### **Light and Dark Mode Example**  
+![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+
 
 ---
 
