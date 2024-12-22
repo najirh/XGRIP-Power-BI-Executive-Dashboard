@@ -4,6 +4,10 @@
 
 ## **Dashboard Screenshots**  
 
+### **Light and Dark Executive Dashboard**  
+![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+
+
 ### **Sales Overview Dashboard**  
 ![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
 
@@ -13,8 +17,6 @@
 ### **Map Analysis Dashboard**  
 ![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
 
-### **Light and Dark Mode Example**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
 
 ---
 
